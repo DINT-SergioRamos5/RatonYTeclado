@@ -30,7 +30,7 @@ namespace Raton_y_Teclado
         {
             if (sender == TextBox1)
             {
-                FocusTextBox.Text = "TextBox 1";
+                FocusTextBox.Text  = "TextBox 1";
             }
             else if (sender == TextBox2)
             {
